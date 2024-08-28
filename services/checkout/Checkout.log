@@ -1,0 +1,84 @@
+[Process ID: 14448] 2024-08-15T17:55:11.016Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 3660] 2024-08-15T17:55:28.354Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 2284] 2024-08-15T17:55:56.559Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 2284] 2024-08-15T17:55:56.566Z [info]: 2024-08-15T17:55:56.566Z GET /checkout
+[Process ID: 2284] 2024-08-15T17:55:57.831Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 2284] 2024-08-15T17:55:57.834Z [info]: 2024-08-15T17:55:57.834Z GET /checkout
+[Process ID: 2284] 2024-08-15T17:56:00.815Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 2284] 2024-08-15T17:56:00.817Z [info]: 2024-08-15T17:56:00.817Z GET /checkout
+[Process ID: 5240] 2024-08-15T20:46:32.129Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 5240] 2024-08-15T20:46:32.138Z [info]: 2024-08-15T20:46:32.138Z POST /checkout
+[Process ID: 5240] 2024-08-15T20:46:56.920Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 5240] 2024-08-15T20:46:56.922Z [info]: 2024-08-15T20:46:56.922Z GET /checkout
+[Process ID: 5240] 2024-08-15T20:47:04.923Z [info]: Status OK /removeall from Checkout Service
+[Process ID: 5240] 2024-08-15T20:47:04.925Z [info]: 2024-08-15T20:47:04.925Z DELETE /removeall
+[Process ID: 5240] 2024-08-15T20:47:06.532Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 5240] 2024-08-15T20:47:06.533Z [info]: 2024-08-15T20:47:06.533Z GET /checkout
+[Process ID: 20] 2024-08-15T21:04:08.913Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-15T21:04:08.919Z [info]: 2024-08-15T21:04:08.919Z GET /checkout
+[Process ID: 20] 2024-08-15T21:04:12.705Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-15T21:04:12.707Z [info]: 2024-08-15T21:04:12.707Z GET /checkout
+[Process ID: 15216] 2024-08-15T23:00:47.702Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 15216] 2024-08-15T23:00:47.709Z [info]: 2024-08-15T23:00:47.709Z POST /checkout
+[Process ID: 15216] 2024-08-15T23:00:48.995Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 15216] 2024-08-15T23:00:48.997Z [info]: 2024-08-15T23:00:48.997Z GET /checkout
+[Process ID: 15216] 2024-08-15T23:00:56.932Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 15216] 2024-08-15T23:00:56.935Z [info]: 2024-08-15T23:00:56.935Z POST /checkout
+[Process ID: 15216] 2024-08-15T23:00:59.700Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 15216] 2024-08-15T23:00:59.701Z [info]: 2024-08-15T23:00:59.701Z GET /checkout
+[Process ID: 15216] 2024-08-15T23:01:06.752Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 15216] 2024-08-15T23:01:06.754Z [info]: 2024-08-15T23:01:06.754Z POST /checkout
+[Process ID: 15216] 2024-08-15T23:01:23.355Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 15216] 2024-08-15T23:01:23.357Z [info]: 2024-08-15T23:01:23.357Z GET /checkout
+[Process ID: 15216] 2024-08-15T23:01:41.316Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 15216] 2024-08-15T23:01:41.319Z [info]: 2024-08-15T23:01:41.319Z GET /checkout
+[Process ID: 20] 2024-08-15T23:38:34.596Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-15T23:38:34.600Z [info]: 2024-08-15T23:38:34.599Z POST /checkout
+[Process ID: 20] 2024-08-15T23:38:41.190Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-15T23:38:41.192Z [info]: 2024-08-15T23:38:41.192Z POST /checkout
+[Process ID: 20] 2024-08-15T23:38:46.023Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-15T23:38:46.024Z [info]: 2024-08-15T23:38:46.024Z POST /checkout
+[Process ID: 20] 2024-08-15T23:38:54.646Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-15T23:38:54.647Z [info]: 2024-08-15T23:38:54.647Z POST /checkout
+[Process ID: 20] 2024-08-15T23:38:56.692Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-15T23:38:56.694Z [info]: 2024-08-15T23:38:56.694Z GET /checkout
+[Process ID: 20] 2024-08-15T23:39:05.837Z [info]: Status OK /removeall from Checkout Service
+[Process ID: 20] 2024-08-15T23:39:05.838Z [info]: 2024-08-15T23:39:05.838Z DELETE /removeall
+[Process ID: 20] 2024-08-15T23:39:06.655Z [info]: Status OK, DELETE Request to Checkout Service at endpoint /checkout/:id
+[Process ID: 20] 2024-08-15T23:39:06.656Z [info]: 2024-08-15T23:39:06.656Z DELETE /checkout/c2e2b839
+[Process ID: 20] 2024-08-15T23:39:06.702Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-15T23:39:06.703Z [info]: 2024-08-15T23:39:06.703Z GET /checkout
+[Process ID: 20] 2024-08-16T03:08:17.716Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-16T03:08:17.727Z [info]: 2024-08-16T03:08:17.727Z POST /checkout
+[Process ID: 20] 2024-08-16T03:08:34.537Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-16T03:08:34.538Z [info]: 2024-08-16T03:08:34.538Z POST /checkout
+[Process ID: 20] 2024-08-16T03:08:53.327Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-16T03:08:53.330Z [info]: 2024-08-16T03:08:53.330Z POST /checkout
+[Process ID: 20] 2024-08-16T03:09:00.734Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-16T03:09:00.735Z [info]: 2024-08-16T03:09:00.735Z POST /checkout
+[Process ID: 20] 2024-08-16T03:09:02.838Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-16T03:09:02.842Z [info]: 2024-08-16T03:09:02.842Z POST /checkout
+[Process ID: 20] 2024-08-16T03:09:04.516Z [info]: Status OK POST Request to Checkout Service at endpoint /checkout
+[Process ID: 20] 2024-08-16T03:09:04.518Z [info]: 2024-08-16T03:09:04.518Z POST /checkout
+[Process ID: 20] 2024-08-16T03:09:07.002Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-16T03:09:07.005Z [info]: 2024-08-16T03:09:07.004Z GET /checkout
+[Process ID: 20] 2024-08-16T03:09:12.933Z [info]: Status OK, DELETE Request to Checkout Service at endpoint /checkout/:id
+[Process ID: 20] 2024-08-16T03:09:12.936Z [info]: 2024-08-16T03:09:12.936Z DELETE /checkout/3472748c
+[Process ID: 20] 2024-08-16T03:09:13.007Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-16T03:09:13.011Z [info]: 2024-08-16T03:09:13.010Z GET /checkout
+[Process ID: 20] 2024-08-16T03:09:14.310Z [info]: Status OK, DELETE Request to Checkout Service at endpoint /checkout/:id
+[Process ID: 20] 2024-08-16T03:09:14.312Z [info]: 2024-08-16T03:09:14.312Z DELETE /checkout/3472748c
+[Process ID: 20] 2024-08-16T03:09:14.363Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-16T03:09:14.365Z [info]: 2024-08-16T03:09:14.365Z GET /checkout
+[Process ID: 20] 2024-08-16T03:09:15.313Z [info]: Status OK, DELETE Request to Checkout Service at endpoint /checkout/:id
+[Process ID: 20] 2024-08-16T03:09:15.314Z [info]: 2024-08-16T03:09:15.314Z DELETE /checkout/b2c42175
+[Process ID: 20] 2024-08-16T03:09:15.371Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-16T03:09:15.373Z [info]: 2024-08-16T03:09:15.373Z GET /checkout
+[Process ID: 20] 2024-08-16T03:09:16.477Z [info]: Status OK, DELETE Request to Checkout Service at endpoint /checkout/:id
+[Process ID: 20] 2024-08-16T03:09:16.478Z [info]: 2024-08-16T03:09:16.478Z DELETE /checkout/04ae6735
+[Process ID: 20] 2024-08-16T03:09:16.534Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-16T03:09:16.535Z [info]: 2024-08-16T03:09:16.535Z GET /checkout
+[Process ID: 20] 2024-08-16T03:09:17.534Z [info]: Status OK /removeall from Checkout Service
+[Process ID: 20] 2024-08-16T03:09:17.535Z [info]: 2024-08-16T03:09:17.535Z DELETE /removeall
+[Process ID: 20] 2024-08-16T03:09:29.504Z [info]: Status OK GET Request at endpoint /checkout in Checkout Service
+[Process ID: 20] 2024-08-16T03:09:29.505Z [info]: 2024-08-16T03:09:29.505Z GET /checkout

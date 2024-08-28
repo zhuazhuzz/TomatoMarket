@@ -1,0 +1,50 @@
+version: '3.9'
+
+services:
+  client:
+    build: ./client
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./client:/usr/app
+      - /usr/app/node_modules
+
+  checkout:
+    build: ./services/checkout
+    ports:
+      - "4001:4001"
+    environment:
+      MONGO_URI: mongodb://mongo:27017/mongotest326
+    volumes:
+      - ./services/checkout:/usr/app
+      - /usr/app/node_modules
+
+  listings:
+    build: ./services/listings
+    ports:
+      - "4000:4000"
+    environment:
+      MONGO_URI: mongodb://mongo:27017/mongotest326
+    volumes:
+      - ./services/listings:/usr/app
+      - /usr/app/node_modules
+
+  reviews:
+    build: ./services/reviews
+    ports:
+      - "4002:4002"
+    environment:
+      MONGO_URI: mongodb://mongo:27017/mongotest326
+    volumes:
+      - ./services/reviews:/usr/app
+      - /usr/app/node_modules
+
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:

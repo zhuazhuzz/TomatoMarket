@@ -12,6 +12,6 @@ Launches at [http://localhost:5173](http://localhost:5173)
 This market listing application was geared towards small scale use such as local farms and foodbanks so that products could be listed and browsed before hand. In the future I plan to add proper authentication and login as well as allowing users to upload their own custom images instead of needing to use cloud URLs.
 
 
-## Main Page Example
+## Main Page
 https://github.com/user-attachments/assets/c050162b-b239-40f7-9588-005dfe40a82c
 

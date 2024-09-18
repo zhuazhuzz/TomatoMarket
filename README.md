@@ -4,7 +4,7 @@ This project uses MongoDB, you should create an `.env` in each backend service d
 
 You should install [Docker](https://www.docker.com/products/docker-desktop/) if you have not already
 
-Each service runs in its own container, a docker compose file is included in the root directory, no need for any `npm`, simply just run `docker-compose up` in the root and wait for dependencies and packages to be installed. 
+Each service runs in its own container, a docker compose file is included in the root directory, simply just run `docker-compose up` in the root and wait for dependencies and packages to be installed. 
 
 Launches at [http://localhost:5173](http://localhost:5173) 
 
